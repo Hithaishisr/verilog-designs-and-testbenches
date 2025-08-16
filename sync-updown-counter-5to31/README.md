@@ -75,5 +75,7 @@ This project is licensed under the MIT License – see the [LICENSE](../LICENSE)
 ---
 
 ## 👨‍💻 Author
+
 **Hithaishi S R**  
-💼 Professional VLSI Trainee | ⚡ Advanced VLSI Design and Verification @ Maven Silicon
+ 🔗 [LinkedIn](https://www.linkedin.com/in/hithaishisr)  
+✉️ hithaishisr2002@gmail.com
