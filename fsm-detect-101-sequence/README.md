@@ -70,7 +70,6 @@ This project is licensed under the MIT License – see the [LICENSE](../LICENSE)
 
 ## 👨‍💻 Author
 
-**Hithaishi S R**
-
-🔗 [LinkedIn](https://www.linkedin.com/in/hithaishisr)
+**Hithaishi S R**  
+🔗 [LinkedIn](https://www.linkedin.com/in/hithaishisr)  
  📧 hithaishisr2002@gmail.com
